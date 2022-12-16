@@ -13,6 +13,7 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 import { navigation } from '@/data/navigation.js'
 import { lightBox } from '@/scripts/lightbox'
 import StructuredData from 'src/components/StructuredData'
+import SubstackEmail from '@/components/SubstackEmail'
 
 function GitHubIcon(props) {
   return (
@@ -252,6 +253,8 @@ export function Layout({ children, title, date, tableOfContents }) {
               </header>
             )}
             <Prose>{children}</Prose>
+
+            <SubstackEmail />
           </article>
           <dl className="mt-12 flex border-t border-slate-200 pt-6 dark:border-slate-800">
             {previousPage && (

@@ -16,6 +16,6 @@ Free tutorials, books, and courses on web development, programming, and computer
 
 {% quick-link title="Podcast" icon="plugins" href="https://anchor.fm/how-to-code" target="_blank" description="A podcast for aspiring web developers." /%}
 
-{% quick-link title="Newsletter" icon="theming" href="https://www.getrevue.co/profile/howtocode_io" target="_blank" description="Web Development Tips & Tutorials" /%}
+{% quick-link title="Newsletter" icon="theming" href="https://howtocode.substack.com/" target="_blank" description="Web Development Tips & Tutorials" /%}
 
 {% /quick-links %}
