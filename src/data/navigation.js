@@ -15,7 +15,7 @@ export const navigation = [
       },
       {
         title: 'Newsletter',
-        href: 'https://www.getrevue.co/profile/howtocode_io',
+        href: 'https://howtocode.substack.com/',
         target: '_blank',
       },
     ],
