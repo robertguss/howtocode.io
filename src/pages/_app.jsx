@@ -96,7 +96,7 @@ export default function App({ Component, pageProps }) {
           url: `https://howtocode.io${router.route}`,
           title: `${pageTitle}`,
           description: `${description}`,
-          images: [{ url: `https://howtocode.io${heroImage}` }],
+          images: [{ url: `${heroImage}` }],
         }}
         twitter={{
           handle: '@howtocode_io',
