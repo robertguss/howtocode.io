@@ -24,12 +24,42 @@ export const navigation = [
     title: 'Recent Articles',
     links: [
       {
+        title: 'How to get experience as a new developer',
+        href: '/posts/how-to-get-experience-as-a-new-developer',
+      },
+      {
         title: 'How to use environment variables in Cypress',
         href: '/posts/cypress-environment-variables',
       },
       {
         title: 'How to setup Algolia DocSearch',
         href: '/posts/how-to-setup-algolia-doc-search',
+      },
+    ],
+  },
+  {
+    title: 'The Self-Taught Developer',
+    links: [
+      {
+        title: 'How I became a web developer in 5 months',
+        href: '/posts/how-i-taught-myself-how-to-code',
+      },
+      {
+        title: 'How to become a Front-End developer',
+        href: '/posts/how-to-become-a-front-end-developer',
+      },
+      {
+        title: 'How to become a Back-End developer',
+        href: '/posts/how-to-become-a-back-end-developer',
+      },
+      {
+        title:
+          'How to manage your expectations while teaching yourself how to code',
+        href: '/posts/how-to-manage-your-expectations-while-teaching-yourself-how-to-code',
+      },
+      {
+        title: 'How to get experience as a new developer',
+        href: '/posts/how-to-get-experience-as-a-new-developer',
       },
     ],
   },
@@ -165,28 +195,6 @@ export const navigation = [
       {
         title: 'Why Writing is Important for Software Developers',
         href: '/posts/why-writing-is-important-for-software-developers',
-      },
-    ],
-  },
-  {
-    title: 'Career Advice',
-    links: [
-      {
-        title: 'How I became a web developer in 5 months',
-        href: '/posts/how-i-taught-myself-how-to-code',
-      },
-      {
-        title: 'How to become a Front-End developer',
-        href: '/posts/how-to-become-a-front-end-developer',
-      },
-      {
-        title: 'How to become a Back-End developer',
-        href: '/posts/how-to-become-a-back-end-developer',
-      },
-      {
-        title:
-          'How to manage your expectations while teaching yourself how to code',
-        href: '/posts/how-to-manage-your-expectations-while-teaching-yourself-how-to-code',
       },
     ],
   },
