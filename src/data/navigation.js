@@ -24,6 +24,10 @@ export const navigation = [
     title: 'Recent Articles',
     links: [
       {
+        title: 'How to get experience as a new developer',
+        href: '/posts/how-to-get-experience-as-a-new-developer',
+      },
+      {
         title: 'How to use environment variables in Cypress',
         href: '/posts/cypress-environment-variables',
       },
