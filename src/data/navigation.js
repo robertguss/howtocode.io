@@ -24,16 +24,16 @@ export const navigation = [
     title: 'Recent Articles',
     links: [
       {
+        title: 'How to install Astro and build your first site',
+        href: '/posts/astro-how-to-install-astro-and-build-your-first-site',
+      },
+      {
         title: 'How to get experience as a new developer',
         href: '/posts/how-to-get-experience-as-a-new-developer',
       },
       {
         title: 'How to use environment variables in Cypress',
         href: '/posts/cypress-environment-variables',
-      },
-      {
-        title: 'How to setup Algolia DocSearch',
-        href: '/posts/how-to-setup-algolia-doc-search',
       },
     ],
   },
@@ -64,6 +64,19 @@ export const navigation = [
     ],
   },
   {
+    title: 'Astro (work in progress)',
+    links: [
+      {
+        title: '1. Overview & Intro',
+        href: '/posts/astro-static-site-generator-overview',
+      },
+      {
+        title: '2. How to install Astro and build your first site',
+        href: '/posts/astro-how-to-install-astro-and-build-your-first-site',
+      },
+    ],
+  },
+  {
     title: 'Next.js (work in progress)',
     links: [
       {
@@ -77,15 +90,6 @@ export const navigation = [
       {
         title: '3. API routes',
         href: '/posts/nextjs-api-routes',
-      },
-    ],
-  },
-  {
-    title: 'Astro (work in progress)',
-    links: [
-      {
-        title: '1. Overview & Intro',
-        href: '/posts/astro-static-site-generator-overview',
       },
     ],
   },
