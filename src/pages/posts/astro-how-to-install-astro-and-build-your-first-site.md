@@ -45,7 +45,7 @@ The CLI will ask you for the name of your project, you can name it whatever you 
 
 Next, you will be asked how you would like to set up your project. Choose the “a few best practices (recommended)” option.
 
-![astro-best-practices-prompt.png](/images/astro/how-to-install-astro-and-build-your-first-swebp/astro-best-practices-prompt.png)
+![astro-best-practices-prompt.png](/images/astro/how-to-install-astro-and-build-your-first-site/astro-best-practices-prompt.webp)
 
 Then press `y` to install the npm dependencies.
 
@@ -53,7 +53,7 @@ You can then choose if you would like the CLI to create a new `.git` repository,
 
 Then select “Strict” for the TypeScript setup.
 
-![typescript-strict-prompt.png](/images/astro/how-to-install-astro-and-build-your-first-site/typescript-strict-prowebp.png)
+![typescript-strict-prompt.png](/images/astro/how-to-install-astro-and-build-your-first-site/typescript-strict-prompt.webp)
 
 Now everything should be installed.
 
@@ -98,7 +98,7 @@ Then search for “Astro.” The first result should be the correct extension, t
 
 After installation, the `index.astro` file should have syntax highlighting.
 
-![index-astro-syntax-highlighting.png](/images/astro/how-to-install-astro-and-build-your-first-swebp/index-astro-syntax-highlighting.png)
+![index-astro-syntax-highlighting.png](/images/astro/how-to-install-astro-and-build-your-first-site/index-astro-syntax-highlighting.webp)
 
 Now VSCode is all setup and configured to work with Astro components and files.
 

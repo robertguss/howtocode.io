@@ -24,16 +24,16 @@ export const navigation = [
     title: 'Recent Articles',
     links: [
       {
-        title: 'How to install Astro and build your first site',
+        title: '3. Astro components, layouts, and pages',
+        href: '/posts/astro-components-layouts-pages',
+      },
+      {
+        title: '2. How to install Astro and build your first site',
         href: '/posts/astro-how-to-install-astro-and-build-your-first-site',
       },
       {
         title: 'How to get experience as a new developer',
         href: '/posts/how-to-get-experience-as-a-new-developer',
-      },
-      {
-        title: 'How to use environment variables in Cypress',
-        href: '/posts/cypress-environment-variables',
       },
     ],
   },
@@ -73,6 +73,10 @@ export const navigation = [
       {
         title: '2. How to install Astro and build your first site',
         href: '/posts/astro-how-to-install-astro-and-build-your-first-site',
+      },
+      {
+        title: '3. Astro components, layouts, and pages',
+        href: '/posts/astro-components-layouts-pages',
       },
     ],
   },
