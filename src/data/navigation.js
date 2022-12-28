@@ -21,23 +21,6 @@ export const navigation = [
     ],
   },
   {
-    title: 'Recent Articles',
-    links: [
-      {
-        title: '3. Astro components, layouts, and pages',
-        href: '/posts/astro-components-layouts-pages',
-      },
-      {
-        title: '2. How to install Astro and build your first site',
-        href: '/posts/astro-how-to-install-astro-and-build-your-first-site',
-      },
-      {
-        title: 'How to get experience as a new developer',
-        href: '/posts/how-to-get-experience-as-a-new-developer',
-      },
-    ],
-  },
-  {
     title: 'The Self-Taught Developer',
     links: [
       {
@@ -53,13 +36,13 @@ export const navigation = [
         href: '/posts/how-to-become-a-back-end-developer',
       },
       {
+        title: 'How to get experience as a new developer',
+        href: '/posts/how-to-get-experience-as-a-new-developer',
+      },
+      {
         title:
           'How to manage your expectations while teaching yourself how to code',
         href: '/posts/how-to-manage-your-expectations-while-teaching-yourself-how-to-code',
-      },
-      {
-        title: 'How to get experience as a new developer',
-        href: '/posts/how-to-get-experience-as-a-new-developer',
       },
     ],
   },
@@ -175,12 +158,25 @@ export const navigation = [
     title: 'Cypress',
     links: [
       {
+        title: 'How to use environment variables in Cypress',
+        href: '/posts/cypress-environment-variables',
+      },
+      {
         title: 'Real World Testing with Cypress',
         href: '/posts/real-world-testing-with-cypress',
       },
       {
         title: 'Real World App',
         href: '/posts/cypress-real-world-app',
+      },
+    ],
+  },
+  {
+    title: 'Algolia',
+    links: [
+      {
+        title: 'How to setup Algolia DocSearch',
+        href: '/posts/how-to-setup-algolia-doc-search',
       },
     ],
   },
