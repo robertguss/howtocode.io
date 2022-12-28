@@ -3,6 +3,7 @@ title: 'How to install Astro and build your first site'
 date: '2022-12-28'
 slug: 'how-to-install-astro-and-build-your-first-site'
 description: 'In this article, I show you how to install Node.js, VSCode, & Astro and build your first site.'
+hero: '/images/astro/astro-cover.png'
 ---
 
 ## Dev tools
