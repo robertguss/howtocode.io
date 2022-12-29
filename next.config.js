@@ -58,6 +58,37 @@ const nextConfig = {
         destination: '/posts/astro/components-layouts-pages',
         permanent: true,
       },
+      {
+        source: '/posts/how-i-taught-myself-how-to-code',
+        destination:
+          '/posts/the-self-taught-developer/how-i-taught-myself-how-to-code',
+        permanent: true,
+      },
+      {
+        source: '/posts/how-to-become-a-front-end-developer',
+        destination:
+          '/posts/the-self-taught-developer/how-to-become-a-front-end-developer',
+        permanent: true,
+      },
+      {
+        source: '/posts/how-to-become-a-back-end-developer',
+        destination:
+          '/posts/the-self-taught-developer/how-to-become-a-back-end-developer',
+        permanent: true,
+      },
+      {
+        source: '/posts/how-to-get-experience-as-a-new-developer',
+        destination:
+          '/posts/the-self-taught-developer/how-to-get-experience-as-a-new-developer',
+        permanent: true,
+      },
+      {
+        source:
+          '/posts/how-to-manage-your-expectations-while-teaching-yourself-how-to-code',
+        destination:
+          '/posts/the-self-taught-developer/how-to-manage-your-expectations-while-teaching-yourself-how-to-code',
+        permanent: true,
+      },
     ]
   },
 }

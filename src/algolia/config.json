@@ -2,9 +2,9 @@
   "index_name": "prod_howtocode",
   "start_urls": [
     {
-      "url": "https://www.howtocode.io/posts/free-resources/",
-      "selectors_key": "free-resources",
-      "tags": ["free-resources"]
+      "url": "https://www.howtocode.io/posts/resources/",
+      "selectors_key": "resources",
+      "tags": ["resources"]
     },
     {
       "url": "https://www.howtocode.io/posts/next-js/",
@@ -75,7 +75,7 @@
   ],
   "sitemap_urls": ["https://www.howtocode.io/sitemap-0.xml"],
   "selectors": {
-    "free-resources": {
+    "resources": {
       "lvl0": {
         "selector": "",
         "default_value": "Free Resources"
