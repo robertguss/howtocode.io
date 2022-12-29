@@ -62,8 +62,12 @@ export const navigation = [
         href: '/posts/astro/components-layouts-pages',
       },
       {
-        title: 'Working with data in Astro',
+        title: 'Working with data',
         href: '/posts/astro/working-with-data',
+      },
+      {
+        title: 'Working with Markdown and MDX',
+        href: '/posts/astro/working-with-markdown-and-mdx',
       },
     ],
   },
