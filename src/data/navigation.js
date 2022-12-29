@@ -69,6 +69,10 @@ export const navigation = [
         title: 'Working with Markdown and MDX',
         href: '/posts/astro/working-with-markdown-and-mdx',
       },
+      {
+        title: 'How to integrate various UI frameworks, themes, and tools',
+        href: '/posts/astro/how-to-integrate-various-ui-frameworks-themes-and-tools',
+      },
     ],
   },
   {
