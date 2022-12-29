@@ -41,6 +41,23 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
+      {
+        source: '/posts/astro-what-makes-astro-different-from-other-frameworks',
+        destination:
+          '/posts/astro/what-makes-astro-different-from-other-frameworks',
+        permanent: true,
+      },
+      {
+        source: '/posts/astro-how-to-install-astro-and-build-your-first-site',
+        destination:
+          '/posts/astro/how-to-install-astro-and-build-your-first-site',
+        permanent: true,
+      },
+      {
+        source: '/posts/astro-components-layouts-pages',
+        destination: '/posts/astro/components-layouts-pages',
+        permanent: true,
+      },
     ]
   },
 }

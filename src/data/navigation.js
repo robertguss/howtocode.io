@@ -51,15 +51,15 @@ export const navigation = [
     links: [
       {
         title: 'What makes Astro different from other frameworks ',
-        href: '/posts/astro-what-makes-astro-different-from-other-frameworks',
+        href: '/posts/astro/what-makes-astro-different-from-other-frameworks',
       },
       {
         title: 'How to install Astro and build your first site',
-        href: '/posts/astro-how-to-install-astro-and-build-your-first-site',
+        href: '/posts/astro/how-to-install-astro-and-build-your-first-site',
       },
       {
         title: 'Astro components, layouts, and pages',
-        href: '/posts/astro-components-layouts-pages',
+        href: '/posts/astro/components-layouts-pages',
       },
     ],
   },

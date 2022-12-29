@@ -1,7 +1,7 @@
 ---
 title: 'What makes Astro different from other frameworks'
 date: '2022-12-29'
-slug: 'astro-what-makes-astro-different-from-other-frameworks'
+slug: 'what-makes-astro-different-from-other-frameworks'
 description: 'In this article, I discuss what makes Astro different from other frameworks. I also discuss how the islands architecture works and how Astro is HTML first by default.'
 hero: '/images/astro/astro-cover.png'
 ---
