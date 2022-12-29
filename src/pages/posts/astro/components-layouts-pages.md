@@ -1,7 +1,7 @@
 ---
 title: 'Astro components, layouts, and pages'
 date: '2022-12-28'
-slug: 'astro-components-layouts-and-pages'
+slug: 'components-layouts-and-pages'
 description: 'In this article, I explain how components, layouts and pages work in Astro.'
 hero: '/images/astro/astro-cover.png'
 ---

@@ -50,16 +50,24 @@ export const navigation = [
     title: 'Astro (work in progress)',
     links: [
       {
-        title: '1. Overview & Intro',
-        href: '/posts/astro-static-site-generator-overview',
+        title: 'What makes Astro different from other frameworks ',
+        href: '/posts/astro/what-makes-astro-different-from-other-frameworks',
       },
       {
-        title: '2. How to install Astro and build your first site',
-        href: '/posts/astro-how-to-install-astro-and-build-your-first-site',
+        title: 'How to install Astro and build your first site',
+        href: '/posts/astro/how-to-install-astro-and-build-your-first-site',
       },
       {
-        title: '3. Astro components, layouts, and pages',
-        href: '/posts/astro-components-layouts-pages',
+        title: 'Astro components, layouts, and pages',
+        href: '/posts/astro/components-layouts-pages',
+      },
+      {
+        title: 'Working with data',
+        href: '/posts/astro/working-with-data',
+      },
+      {
+        title: 'Working with Markdown and MDX',
+        href: '/posts/astro/working-with-markdown-and-mdx',
       },
     ],
   },
