@@ -61,6 +61,10 @@ export const navigation = [
         title: 'Astro components, layouts, and pages',
         href: '/posts/astro/components-layouts-pages',
       },
+      {
+        title: 'Working with data in Astro',
+        href: '/posts/astro/working-with-data',
+      },
     ],
   },
   {
