@@ -2,19 +2,19 @@
   "index_name": "prod_howtocode",
   "start_urls": [
     {
-      "url": "https://www.howtocode.io/posts/resources/",
-      "selectors_key": "resources",
-      "tags": ["resources"]
-    },
-    {
-      "url": "https://www.howtocode.io/posts/next-js/",
-      "selectors_key": "next-js",
-      "tags": ["next-js"]
+      "url": "https://www.howtocode.io/posts/the-self-taught-developer/",
+      "selectors_key": "the-self-taught-developer",
+      "tags": ["the-self-taught-developer"]
     },
     {
       "url": "https://www.howtocode.io/posts/astro/",
       "selectors_key": "astro",
       "tags": ["astro"]
+    },
+    {
+      "url": "https://www.howtocode.io/posts/next-js/",
+      "selectors_key": "next-js",
+      "tags": ["next-js"]
     },
     {
       "url": "https://www.howtocode.io/posts/go/",
@@ -32,14 +32,14 @@
       "tags": ["cypress"]
     },
     {
+      "url": "https://www.howtocode.io/posts/algolia/",
+      "selectors_key": "algolia",
+      "tags": ["algolia"]
+    },
+    {
       "url": "https://www.howtocode.io/posts/writing-pkm/",
       "selectors_key": "writing-pkm",
       "tags": ["writing-pkm"]
-    },
-    {
-      "url": "https://www.howtocode.io/posts/career-advice/",
-      "selectors_key": "career-advice",
-      "tags": ["career-advice"]
     },
     {
       "url": "https://www.howtocode.io/posts/jamstack/",
@@ -75,21 +75,10 @@
   ],
   "sitemap_urls": ["https://www.howtocode.io/sitemap-0.xml"],
   "selectors": {
-    "resources": {
+    "the-self-taught-developer": {
       "lvl0": {
         "selector": "",
-        "default_value": "Free Resources"
-      },
-      "lvl1": ".main-content header h1",
-      "lvl2": ".main-content .prose h2",
-      "lvl3": ".main-content .prose h3",
-      "lvl4": ".main-content .prose h4",
-      "text": ".main-content .prose p,.main-content .prose li"
-    },
-    "next-js": {
-      "lvl0": {
-        "selector": "",
-        "default_value": "Next.js"
+        "default_value": "The Self-Taught Developer"
       },
       "lvl1": ".main-content header h1",
       "lvl2": ".main-content .prose h2",
@@ -101,6 +90,17 @@
       "lvl0": {
         "selector": "",
         "default_value": "Astro"
+      },
+      "lvl1": ".main-content header h1",
+      "lvl2": ".main-content .prose h2",
+      "lvl3": ".main-content .prose h3",
+      "lvl4": ".main-content .prose h4",
+      "text": ".main-content .prose p,.main-content .prose li"
+    },
+    "next-js": {
+      "lvl0": {
+        "selector": "",
+        "default_value": "Next.js"
       },
       "lvl1": ".main-content header h1",
       "lvl2": ".main-content .prose h2",
@@ -141,10 +141,10 @@
       "lvl4": ".main-content .prose h4",
       "text": ".main-content .prose p,.main-content .prose li"
     },
-    "writing-pkm": {
+    "algolia": {
       "lvl0": {
         "selector": "",
-        "default_value": "Writing & PKM"
+        "default_value": "Algolia"
       },
       "lvl1": ".main-content header h1",
       "lvl2": ".main-content .prose h2",
@@ -152,10 +152,10 @@
       "lvl4": ".main-content .prose h4",
       "text": ".main-content .prose p,.main-content .prose li"
     },
-    "career-advice": {
+    "writing-pkm": {
       "lvl0": {
         "selector": "",
-        "default_value": "Career Advice"
+        "default_value": "Writing & PKM"
       },
       "lvl1": ".main-content header h1",
       "lvl2": ".main-content .prose h2",
