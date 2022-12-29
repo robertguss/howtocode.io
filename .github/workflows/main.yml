@@ -2,7 +2,8 @@ name: Algolia DocSearch
 
 on:
   schedule:
-    - cron: '0 9 * * 1'
+    # Every Wednesday & Friday at 6pm
+    - cron: '0 18 * * 3,5'
 
 jobs:
   docsearch:
