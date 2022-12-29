@@ -13,12 +13,12 @@ const nextConfig = {
     return [
       {
         source: '/books',
-        destination: '/posts/books',
+        destination: '/posts/resources/books',
         permanent: true,
       },
       {
         source: '/courses',
-        destination: '/posts/courses',
+        destination: '/posts/resources/courses',
         permanent: true,
       },
       {
