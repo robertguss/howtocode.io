@@ -1,6 +1,7 @@
 name: Algolia DocSearch
 
 on:
+  workflow_dispatch:
   schedule:
     # Every Wednesday & Friday at 6pm
     - cron: '0 18 * * 3,5'
