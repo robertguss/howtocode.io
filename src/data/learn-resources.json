@@ -1,0 +1,681 @@
+[
+  {
+    "Name": "freeCodeCamp",
+    "URL": "https://www.freecodecamp.org/",
+    "Category": "Curriculum, Full-stack, Node.js",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "The Odin Project",
+    "URL": "https://www.theodinproject.com/",
+    "Category": "Curriculum, Full-stack, Node.js, Ruby on Rails",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Learn Enough",
+    "URL": "https://www.learnenough.com/",
+    "Category": "Curriculum, Full-stack, Ruby on Rails",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Shay Howe - Learn to code HTML & CSS",
+    "URL": "https://learn.shayhowe.com/",
+    "Category": "CSS, HTML",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Scrimba",
+    "URL": "https://scrimba.com/",
+    "Category": "Frontend",
+    "Cost": "Free, Paid",
+    "Type": "Interactive, Video"
+  },
+  {
+    "Name": "Beginner JavaScript",
+    "URL": "https://beginnerjavascript.com/",
+    "Category": "JavaScript",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Advanced React & GraphQL",
+    "URL": "https://advancedreact.com/",
+    "Category": "GraphQL, Next.js, Node.js, React",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "ES6 for Everyone",
+    "URL": "https://es6.io/",
+    "Category": "JavaScript",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "JavaScript 30",
+    "URL": "https://javascript30.com/",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Video"
+  },
+  {
+    "Name": "React for Beginners",
+    "URL": "https://reactforbeginners.com/",
+    "Category": "React",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "CSS Grid",
+    "URL": "https://cssgrid.io/",
+    "Category": "CSS",
+    "Cost": "Free",
+    "Type": "Video"
+  },
+  {
+    "Name": "Learn Node",
+    "URL": "https://learnnode.com/",
+    "Category": "Node.js",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "What the Flexbox?!",
+    "URL": "https://flexbox.io/",
+    "Category": "CSS",
+    "Cost": "Free",
+    "Type": "Video"
+  },
+  {
+    "Name": "JavaScript for Cats",
+    "URL": "http://jsforcats.com/",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Eloquent JavaScript",
+    "URL": "https://eloquentjavascript.net/",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "You don’t know JS",
+    "URL": "https://github.com/getify/You-Dont-Know-JS",
+    "Category": "JavaScript",
+    "Cost": "Free, Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "JavaScript: Understanding the Weird Parts",
+    "URL": "https://www.udemy.com/course/understand-javascript/",
+    "Category": "JavaScript",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Frontend Mentor",
+    "URL": "https://www.frontendmentor.io/",
+    "Category": "Frontend",
+    "Cost": "Free, Paid",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Frontend Masters",
+    "URL": "https://frontendmasters.com/",
+    "Category": "Frontend",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Go Rails",
+    "URL": "https://gorails.com/",
+    "Category": "Ruby on Rails",
+    "Cost": "Free, Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Laracasts",
+    "URL": "https://laracasts.com/",
+    "Category": "Laravel, PHP",
+    "Cost": "Free, Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Real World Testing with Cypress",
+    "URL": "https://learn.cypress.io/",
+    "Category": "Cypress, Testing",
+    "Cost": "Free",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn to Program",
+    "URL": "https://pragprog.com/titles/ltp3/learn-to-program-third-edition/",
+    "Category": "Ruby",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "Learn Ruby the hard way",
+    "URL": "https://learnrubythehardway.org/book/",
+    "Category": "Ruby",
+    "Cost": "Free, Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "Upcase",
+    "URL": "https://thoughtbot.com/upcase",
+    "Category": "Ruby on Rails",
+    "Cost": "Free",
+    "Type": "Video"
+  },
+  {
+    "Name": "Learn Enough Git",
+    "URL": "https://www.learnenough.com/git",
+    "Category": "Git",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "The Ruby on Rails Tutorial",
+    "URL": "https://www.learnenough.com/ruby-on-rails-7th-edition",
+    "Category": "Ruby on Rails",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn Enough Python",
+    "URL": "https://www.learnenough.com/python",
+    "Category": "Python",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn Enough Ruby",
+    "URL": "https://www.learnenough.com/ruby",
+    "Category": "Ruby",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn Enough JavaScript",
+    "URL": "https://www.learnenough.com/javascript",
+    "Category": "JavaScript",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn Enough CSS & Layout",
+    "URL": "https://www.learnenough.com/css-and-layout",
+    "Category": "CSS",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn Enough HTML",
+    "URL": "https://www.learnenough.com/html",
+    "Category": "HTML",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn Enough Text Editor",
+    "URL": "https://www.learnenough.com/text-editor",
+    "Category": "Text Editor",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Learn Enough Command Line",
+    "URL": "https://www.learnenough.com/command-line",
+    "Category": "Command Line",
+    "Cost": "Paid",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Command Line Power User",
+    "URL": "https://commandlinepoweruser.com/",
+    "Category": "Command Line",
+    "Cost": "Free",
+    "Type": "Video"
+  },
+  {
+    "Name": "The Web Developer Bootcamp 2022",
+    "URL": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+    "Category": "Full-stack, Node.js",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "The Complete 2023 Web Development Bootcamp",
+    "URL": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+    "Category": "Full-stack, Node.js, React",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "The Complete JavaScript Course 2023: From Zero to Expert!",
+    "URL": "https://www.udemy.com/course/the-complete-javascript-course/",
+    "Category": "JavaScript",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Just JavaScript",
+    "URL": "https://justjavascript.com/",
+    "Category": "JavaScript",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "Understanding TypeScript - 2023 Edition",
+    "URL": "https://www.udemy.com/course/understanding-typescript/",
+    "Category": "TypeScript",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "The TypeScript Handbook",
+    "URL": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "Category": "TypeScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "TypeScript Deep Dive",
+    "URL": "https://basarat.gitbook.io/typescript/",
+    "Category": "TypeScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Microsoft Web Dev for Beginners",
+    "URL": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "Category": "Frontend",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Microsoft ML for Beginners",
+    "URL": "https://github.com/microsoft/ML-For-Beginners",
+    "Category": "Machine Learning",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Microsoft AI for Beginners",
+    "URL": "https://github.com/microsoft/ai-for-beginners",
+    "Category": "Artificial Intelligence",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Microsoft Data Science for Beginners",
+    "URL": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "Category": "Data Science",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "fast.ai",
+    "URL": "https://www.fast.ai/",
+    "Category": "Artificial Intelligence, Deep Learning",
+    "Cost": "Free",
+    "Type": "Book, Video"
+  },
+  {
+    "Name": "Kaggle",
+    "URL": "https://www.kaggle.com/",
+    "Category": "Data Science, Machine Learning, Python",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Learn and Understand NodeJS",
+    "URL": "https://www.udemy.com/course/understand-nodejs/",
+    "Category": "Node.js",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Exercism.io",
+    "URL": "https://exercism.org/",
+    "Category": "Full-stack",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Modern React with Redux",
+    "URL": "https://www.udemy.com/course/react-redux/",
+    "Category": "React",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Go: The Complete Developer's Guide",
+    "URL": "https://www.udemy.com/course/go-the-complete-developers-guide/",
+    "Category": "Go",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "The Modern Javascript Bootcamp Course",
+    "URL": "https://www.udemy.com/course/javascript-beginners-complete-tutorial/",
+    "Category": "JavaScript",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Typescript: The Complete Developer's Guide",
+    "URL": "https://www.udemy.com/course/typescript-the-complete-developers-guide/",
+    "Category": "TypeScript",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "React - The Complete Guide",
+    "URL": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+    "Category": "React",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Testing JavaScript",
+    "URL": "https://testingjavascript.com/",
+    "Category": "Testing",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Total TypeScript",
+    "URL": "https://www.totaltypescript.com/",
+    "Category": "TypeScript",
+    "Cost": "Free, Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Go Basics",
+    "URL": "https://www.howtocode.io/posts/books",
+    "Category": "Go",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Understanding the Jamstack",
+    "URL": "https://www.howtocode.io/posts/books",
+    "Category": "Jamstack",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "MDN HTML",
+    "URL": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "Category": "HTML",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "MDN CSS",
+    "URL": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "Category": "CSS",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "MDN JavaScript",
+    "URL": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Learn Python the Hard Way",
+    "URL": "https://learncodethehardway.org/python/",
+    "Category": "Python",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "Learn SQL the Hard Way",
+    "URL": "https://learncodethehardway.org/sql/",
+    "Category": "SQL",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "Code Course",
+    "URL": "https://codecourse.com/",
+    "Category": "Full-stack, Laravel, PHP",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Ruby on Rails 7",
+    "URL": "https://pragmaticstudio.com/courses/rails",
+    "Category": "Ruby on Rails",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Ruby Programming",
+    "URL": "https://pragmaticstudio.com/courses/ruby",
+    "Category": "Ruby",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Elixir & OTP",
+    "URL": "https://pragmaticstudio.com/courses/elixir",
+    "Category": "Elixir",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Phoenix LiveView",
+    "URL": "https://pragmaticstudio.com/courses/phoenix-liveview",
+    "Category": "Elixir",
+    "Cost": "Paid",
+    "Type": "Video"
+  },
+  {
+    "Name": "Programming Ruby 3.2",
+    "URL": "https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/",
+    "Category": "Ruby",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "The Go Programming Language",
+    "URL": "https://go.dev/learn/",
+    "Category": "Go",
+    "Cost": "Free",
+    "Type": "Book, Interactive"
+  },
+  {
+    "Name": "Learn Programming",
+    "URL": "https://learnprogramming.online/",
+    "Category": "Frontend, React",
+    "Cost": "Paid",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Programming Elixir 1.6",
+    "URL": "https://pragprog.com/titles/elixir16/programming-elixir-1-6/",
+    "Category": "Elixir",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "Programming Phoenix 1.4",
+    "URL": "https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/",
+    "Category": "Elixir",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "Agile Web Development with Rails 7",
+    "URL": "https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/",
+    "Category": "Ruby on Rails",
+    "Cost": "Paid",
+    "Type": "Book"
+  },
+  {
+    "Name": "CS50's Introduction to Computer Science",
+    "URL": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+    "Category": "Computer Science",
+    "Cost": "Free",
+    "Type": "Video"
+  },
+  {
+    "Name": "Python for Everybody",
+    "URL": "https://www.py4e.com/",
+    "Category": "Python",
+    "Cost": "Free",
+    "Type": "Video"
+  },
+  {
+    "Name": "Back End Development and APIs",
+    "URL": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+    "Category": "Node.js",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "JavaScript Algorithms and Data Structures",
+    "URL": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Scientific Computing with Python",
+    "URL": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+    "Category": "Python",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Machine Learning with Python",
+    "URL": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+    "Category": "Machine Learning, Python",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Coding Interview Prep",
+    "URL": "https://www.freecodecamp.org/learn/coding-interview-prep/",
+    "Category": "Interview prep",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "https://www.khanacademy.org/computing/computer-programming/sql",
+    "URL": "https://www.khanacademy.org/computing/computer-programming/sql",
+    "Category": "SQL",
+    "Cost": "Free",
+    "Type": "Interactive, Video"
+  },
+  {
+    "Name": "W3 Schools CSS",
+    "URL": "https://www.w3schools.com/css/default.asp",
+    "Category": "CSS",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "W3 Schools JS",
+    "URL": "https://www.w3schools.com/js/default.asp",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "W3 Schools SQL",
+    "URL": "https://www.w3schools.com/sql/default.asp",
+    "Category": "SQL",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "W3 Schools Python",
+    "URL": "https://www.w3schools.com/python/default.asp",
+    "Category": "Python",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "W3 Schools PHP",
+    "URL": "https://www.w3schools.com/php/default.asp",
+    "Category": "PHP",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "W3 Schools Node.js",
+    "URL": "https://www.w3schools.com/nodejs/default.asp",
+    "Category": "Node.js",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "W3 Schools TypeScript",
+    "URL": "https://www.w3schools.com/typescript/index.php",
+    "Category": "TypeScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "W3 Schools HTML",
+    "URL": "https://www.w3schools.com/html/default.asp",
+    "Category": "HTML",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Codecademy Learn SQL",
+    "URL": "https://www.codecademy.com/learn/learn-sql",
+    "Category": "SQL",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Codecademy Learn JavaScript",
+    "URL": "https://www.codecademy.com/learn/introduction-to-javascript",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Codecademy Learn HTML & CSS",
+    "URL": "https://www.codecademy.com/catalog/language/html-css",
+    "Category": "CSS, HTML",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "Codecademy Learn PHP",
+    "URL": "https://www.codecademy.com/catalog/language/php",
+    "Category": "PHP",
+    "Cost": "Free",
+    "Type": "Interactive"
+  },
+  {
+    "Name": "JavaScript Algorithms",
+    "URL": "https://github.com/trekhleb/javascript-algorithms",
+    "Category": "JavaScript",
+    "Cost": "Free",
+    "Type": "Book"
+  },
+  {
+    "Name": "Hacker.io",
+    "URL": "https://hackr.io/",
+    "Category": "Full-stack",
+    "Cost": "Free, Paid",
+    "Type": "Book, Interactive, Video"
+  }
+]
