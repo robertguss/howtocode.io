@@ -91,17 +91,17 @@ const nextConfig = {
       },
       {
         source: '/posts/nextjs-install-and-overview',
-        destination: '/posts/next-js/nextjs-install-and-overview',
+        destination: '/posts/next-js/install-and-overview',
         permanent: true,
       },
       {
         source: '/posts/nextjs-pages-and-pre-rendering',
-        destination: '/posts/next-js/nextjs-pages-and-pre-rendering',
+        destination: '/posts/next-js/pages-and-pre-rendering',
         permanent: true,
       },
       {
         source: '/posts/nextjs-api-routes',
-        destination: '/posts/next-js/nextjs-api-routes',
+        destination: '/posts/next-js/api-routes',
         permanent: true,
       },
       {
