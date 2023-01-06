@@ -6,8 +6,8 @@ export const navigation = [
   {
     title: 'Resources',
     links: [
-      { title: 'Free books', href: '/posts/resources/books' },
-      { title: 'Free courses', href: '/posts/resources/courses' },
+      { title: 'Books', href: '/posts/resources/books' },
+      { title: 'Courses', href: '/posts/resources/courses' },
       {
         title: 'Podcast',
         href: 'https://anchor.fm/how-to-code',
