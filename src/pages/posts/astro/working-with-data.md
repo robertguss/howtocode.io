@@ -3,7 +3,7 @@ title: 'Working with data in Astro'
 date: '2022-12-29'
 slug: 'working-with-data'
 description: 'In this article, I show you how to fetch data in both Astro and framework components'
-hero: '/images/astro/astro-cover.png'
+hero: '/images/astro/getting-started-with-astro.jpg'
 ---
 
 It is important you understand how to `fetch()` and work with data within your components. In this lesson, we will learn how to `fetch()` data in both `.astro` components and Framework components (React, Vue, Svelte, etc.)

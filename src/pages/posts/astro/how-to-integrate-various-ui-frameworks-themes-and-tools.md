@@ -3,7 +3,7 @@ title: 'How to integrate various UI frameworks, themes, and tools'
 date: '2022-12-29'
 slug: 'how-to-integrate-various-ui-frameworks-themes-and-tools'
 description: 'In this article, I explain how to integrate various UI frameworks, themes, and tools in your Astro projects.'
-hero: '/images/astro/astro-cover.png'
+hero: '/images/astro/getting-started-with-astro.jpg'
 ---
 
 One of the most unique and powerful features of Astro is the ability to use a [variety of different UI frameworks and tools](https://docs.astro.build/en/guides/integrations-guide/). In addition to using `.astro` components, you can also use React, Vue, Svelte, and others. You can even mix and match these various frameworks on the same page.

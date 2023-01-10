@@ -21,6 +21,63 @@ export const navigation = [
     ],
   },
   {
+    title: 'Astro (work in progress)',
+    links: [
+      {
+        title: 'What makes Astro different from other frameworks ',
+        href: '/posts/astro/what-makes-astro-different-from-other-frameworks',
+      },
+      {
+        title: 'How to install Astro and build your first site',
+        href: '/posts/astro/how-to-install-astro-and-build-your-first-site',
+      },
+      {
+        title: 'Astro components, layouts, and pages',
+        href: '/posts/astro/components-layouts-pages',
+      },
+      {
+        title: 'Static & dynamic routes',
+        href: '/posts/astro/static-and-dynamic-routes',
+      },
+      {
+        title: 'Working with data',
+        href: '/posts/astro/working-with-data',
+      },
+      {
+        title: 'Working with Markdown and MDX',
+        href: '/posts/astro/working-with-markdown-and-mdx',
+      },
+      {
+        title: 'How to integrate various UI frameworks, themes, and tools',
+        href: '/posts/astro/how-to-integrate-various-ui-frameworks-themes-and-tools',
+      },
+      {
+        title: 'Astro Project: 1 - Creating our markdown blog',
+        href: '/posts/astro/creating-our-markdown-blog',
+      },
+      {
+        title: 'Astro Project: 2 - Updating our blog posts to use MDX',
+        href: '/posts/astro/updating-our-blog-posts-to-use-mdx',
+      },
+      {
+        title: 'Astro Project: 3 - Installing and setting up Strapi CMS',
+        href: '/posts/astro/installing-and-setting-up-strapi-cms',
+      },
+      {
+        title: 'Astro Project: 4 - Rendering the blog posts from Strapi',
+        href: '/posts/astro/rendering-the-blog-posts-from-strapi',
+      },
+      {
+        title: 'Astro Project: 5 - Creating dynamic routes for each post',
+        href: '/posts/astro/creating-dynamic-routes-for-each-post',
+      },
+      {
+        title: 'Astro Project: 6 - Using GraphQL in Strapi and Astro',
+        href: '/posts/astro/using-graphql-in-strapi-and-astro',
+      },
+    ],
+  },
+  {
     title: 'The Self-Taught Developer',
     links: [
       {
@@ -43,35 +100,6 @@ export const navigation = [
         title:
           'How to manage your expectations while teaching yourself how to code',
         href: '/posts/the-self-taught-developer/how-to-manage-your-expectations-while-teaching-yourself-how-to-code',
-      },
-    ],
-  },
-  {
-    title: 'Astro (work in progress)',
-    links: [
-      {
-        title: 'What makes Astro different from other frameworks ',
-        href: '/posts/astro/what-makes-astro-different-from-other-frameworks',
-      },
-      {
-        title: 'How to install Astro and build your first site',
-        href: '/posts/astro/how-to-install-astro-and-build-your-first-site',
-      },
-      {
-        title: 'Astro components, layouts, and pages',
-        href: '/posts/astro/components-layouts-pages',
-      },
-      {
-        title: 'Working with data',
-        href: '/posts/astro/working-with-data',
-      },
-      {
-        title: 'Working with Markdown and MDX',
-        href: '/posts/astro/working-with-markdown-and-mdx',
-      },
-      {
-        title: 'How to integrate various UI frameworks, themes, and tools',
-        href: '/posts/astro/how-to-integrate-various-ui-frameworks-themes-and-tools',
       },
     ],
   },

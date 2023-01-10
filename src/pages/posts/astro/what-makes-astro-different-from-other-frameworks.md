@@ -3,7 +3,7 @@ title: 'What makes Astro different from other frameworks'
 date: '2022-12-29'
 slug: 'what-makes-astro-different-from-other-frameworks'
 description: 'In this article, I discuss what makes Astro different from other frameworks. I also discuss how the islands architecture works and how Astro is HTML first by default.'
-hero: '/images/astro/astro-cover.png'
+hero: '/images/astro/getting-started-with-astro.jpg'
 ---
 
 Over the past few years, we have seen an explosion of [static site generators](https://jamstack.org/generators/). It seems like a new one gets released every week or so. Despite all the noise, Astro separates itself with some unique features and capabilities.
