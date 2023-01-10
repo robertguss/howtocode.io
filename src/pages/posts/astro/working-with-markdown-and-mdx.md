@@ -3,7 +3,7 @@ title: 'Working with Markdown and MDX'
 date: '2022-12-29'
 slug: 'working-with-markdown-and-mdx'
 description: 'In this article, you will learn how to use both markdown and MDX files in Astro.'
-hero: '/images/astro/astro-cover.png'
+hero: '/images/astro/getting-started-with-astro.jpg'
 ---
 
 Astro comes with built-in support for [Markdown](https://daringfireball.net/projects/markdown/) files. You can also use [MDX](https://mdxjs.com/) with the [@astro/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/) integration. MDX allows you to use JSX and components within your Markdown files.

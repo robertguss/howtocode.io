@@ -1,11 +1,11 @@
 ---
-title: "Astro - 1. Overview & Intro"
-date: "2021-10-08"
-slug: "astro-static-site-generator-overview"
-description: "Astro is a new static site generator built by the creators of Snowpack. In this article I discuss what makes Astro unique and why you may want to consider using it for your next project."
-hero: "/images/astro/astro-cover.png"
-tags: ["astro-static-site-generator"]
-layout: "../../layouts/BlogPostLayout.astro"
+title: 'Astro - 1. Overview & Intro'
+date: '2021-10-08'
+slug: 'astro-static-site-generator-overview'
+description: 'Astro is a new static site generator built by the creators of Snowpack. In this article I discuss what makes Astro unique and why you may want to consider using it for your next project.'
+hero: '/images/astro/getting-started-with-astro.jpg'
+tags: ['astro-static-site-generator']
+layout: '../../layouts/BlogPostLayout.astro'
 ---
 
 [Astro](https://astro.build/) is a brand new static site generator created by the developers of [Snowpack](https://www.snowpack.dev/). Astro, however, is not _just another_ static site generator. It has some really unique and powerful features that make it a compelling choice.
