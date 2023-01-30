@@ -9,6 +9,11 @@ export const navigation = [
       { title: 'Books', href: '/posts/resources/books' },
       { title: 'Courses', href: '/posts/resources/courses' },
       {
+        title: 'Learn to Code Database',
+        href: 'https://howtocode.gumroad.com/l/learn-to-code',
+        target: '_blank',
+      },
+      {
         title: 'Podcast',
         href: 'https://anchor.fm/how-to-code',
         target: '_blank',
