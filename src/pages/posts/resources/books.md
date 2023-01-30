@@ -9,7 +9,7 @@ description: 'Free web development books'
 
 ![Go Basics Book](/books/covers/go-basics-book-cover.webp)
 
-[Download Go Basics](/books/go-basics.zip)
+[Download Go Basics](https://howtocode.gumroad.com/l/go-basics)
 
 ## Understanding the Jamstack
 
