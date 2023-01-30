@@ -15,4 +15,4 @@ description: 'Free web development books'
 
 ![Understanding the Jamstack Book](/books/covers/jamstack-book-cover.webp)
 
-[Download Understanding the Jamstack](/books/understanding-the-jamstack.zip)
+[Download Understanding the Jamstack](https://howtocode.gumroad.com/l/understanding-the-jamstack)
