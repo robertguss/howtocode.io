@@ -6,7 +6,7 @@ description: 'In this tutorial we will learn how to use content collections in A
 hero: '/images/astro/getting-started-with-astro.jpg'
 ---
 
-# Astro content collections tutorial
+{% youtube id="FS96vvn-W44" / %}
 
 This tutorial will teach you what [content collections](https://docs.astro.build/en/guides/content-collections/) are and how they work in Astro 2.0.
 
