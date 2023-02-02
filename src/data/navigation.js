@@ -29,6 +29,10 @@ export const navigation = [
     title: 'Astro (work in progress)',
     links: [
       {
+        title: 'Astro 2.0: Content collections',
+        href: '/posts/astro/content-collections',
+      },
+      {
         title: 'What makes Astro different from other frameworks ',
         href: '/posts/astro/what-makes-astro-different-from-other-frameworks',
       },
