@@ -30,16 +30,16 @@ export default function Banner() {
                 </span>
                 <p className="ml-3 truncate font-medium text-white">
                   <span className="md:hidden">
-                    Check out my new book, Getting Started with Astro
+                    Check out my new course, Astro - The Complete Guide
                   </span>
                   <span className="hidden md:inline">
-                    Check out my new book, Getting Started with Astro
+                    Check out my new course, Astro - The Complete Guide
                   </span>
                 </p>
               </div>
               <div className="order-3 mt-2 w-full flex-shrink-0 sm:order-2 sm:mt-0 sm:w-auto">
                 <a
-                  href="https://leanpub.com/gettingstartedwithastro"
+                  href="https://www.udemy.com/course/astro-the-complete-guide/"
                   target="_blank"
                   className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-2 text-sm font-medium text-sky-600 shadow-sm hover:bg-sky-50"
                   rel="noreferrer"
