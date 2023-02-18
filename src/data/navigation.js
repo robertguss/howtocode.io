@@ -26,7 +26,7 @@ export const navigation = [
     ],
   },
   {
-    title: 'Astro (work in progress)',
+    title: 'Astro',
     links: [
       {
         title: 'Astro 2.0: Content collections',

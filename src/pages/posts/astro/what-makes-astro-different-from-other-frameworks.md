@@ -6,6 +6,8 @@ description: 'In this article, I discuss what makes Astro different from other f
 hero: '/images/astro/getting-started-with-astro.jpg'
 ---
 
+{% youtube id="h9YhLiRDCvY" / %}
+
 Over the past few years, we have seen an explosion of [static site generators](https://jamstack.org/generators/). It seems like a new one gets released every week or so. Despite all the noise, Astro separates itself with some unique features and capabilities.
 
 Let’s discuss what makes Astro different from other frameworks and static site generators.
