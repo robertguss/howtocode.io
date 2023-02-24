@@ -96,7 +96,7 @@ function Header({ navigation }) {
             <YouTubeIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300" />
           </Link>
           <Link
-            href="https://github.com/robertguss/howtocode-tailwindui-syntax"
+            href="https://github.com/robertguss"
             className="group"
             aria-label="GitHub"
             target="_blank"

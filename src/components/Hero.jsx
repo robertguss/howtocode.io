@@ -53,7 +53,7 @@ export function Hero() {
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 {/* <Button href="/">Get started</Button> */}
                 {/* <Button
-                  href="https://github.com/robertguss/howtocode-tailwindui-syntax"
+                  href="https://github.com/robertguss"
                   variant="secondary"
                   target="_blank"
                 >
