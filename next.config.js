@@ -345,6 +345,12 @@ const nextConfig = {
           '/posts/javascript/understanding-map-filter-and-reduce-in-javascript',
         permanent: true,
       },
+      {
+        source: '/resume',
+        destination:
+          '/resume.pdf',
+        permanent: true,
+      },
     ]
   },
 }
