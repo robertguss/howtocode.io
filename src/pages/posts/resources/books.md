@@ -9,7 +9,7 @@ description: 'Free web development books'
 
 ![Getting started with Astro cover](/books/covers/getting-started-with-astro.webp)
 
-[Purchase Getting started with Astro](https://a.co/d/0wpyAUJ)
+[Purchase Getting started with Astro](https://howtocode.gumroad.com/l/getting-started-with-astro)
 
 ## Go Basics
 
