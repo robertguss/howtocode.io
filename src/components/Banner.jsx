@@ -39,7 +39,7 @@ export default function Banner() {
               </div>
               <div className="order-3 mt-2 w-full flex-shrink-0 sm:order-2 sm:mt-0 sm:w-auto">
                 <a
-                  href="https://www.udemy.com/course/astro-the-complete-guide/?referralCode=50112E75B7E8C8DFD726"
+                  href="https://howtocode.gumroad.com/l/getting-started-with-astro-course"
                   target="_blank"
                   className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-2 text-sm font-medium text-sky-600 shadow-sm hover:bg-sky-50"
                   rel="noreferrer"
