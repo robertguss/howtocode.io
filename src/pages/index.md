@@ -3,7 +3,6 @@ title: How to Code - Free web development tutorials, books, courses
 pageTitle: How to Code
 description: Tutorials, books, and courses on web development, programming, and computer science.
 hero: /images/logo/HowToCode_OpenGraph_1200_630.png
-date: '2023-01-06'
 ---
 
 Tutorials, books, and courses on web development, programming, and computer science. {% .lead %}
