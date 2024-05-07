@@ -1,6 +1,5 @@
 ---
 title: 'Books'
-date: '2023-01-06'
 slug: 'books'
 description: 'Free web development books'
 ---
