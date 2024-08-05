@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { MegaphoneIcon, XMarkIcon } from '@heroicons/react/24/outline'
+import { RocketLaunchIcon, XMarkIcon } from '@heroicons/react/24/outline'
 
 export default function Banner() {
   const [showBanner, setBanner] = useState(true)
@@ -18,28 +18,30 @@ export default function Banner() {
   return (
     <>
       {showBanner && (
-        <div className="bg-sky-700">
-          <div className="mx-auto max-w-7xl py-3 px-3 sm:px-6 lg:px-8">
+        <div className="bg-sky-500">
+          <div className="mx-auto max-w-7xl px-3 py-3 sm:px-6 lg:px-8">
             <div className="flex flex-wrap items-center justify-between">
               <div className="flex w-0 flex-1 items-center">
                 <span className="flex rounded-lg bg-sky-900 p-2">
-                  <MegaphoneIcon
+                  <RocketLaunchIcon
                     className="h-6 w-6 text-white"
                     aria-hidden="true"
                   />
                 </span>
                 <p className="ml-3 truncate font-medium text-white">
                   <span className="md:hidden">
-                    Check out my new course, Astro - The Complete Guide
+                    The NextJS boilerplate to bring your idea to production in 5
+                    minutes.
                   </span>
                   <span className="hidden md:inline">
-                    Check out my new course, Astro - The Complete Guide
+                    The NextJS boilerplate to bring your idea to production in 5
+                    minutes.
                   </span>
                 </p>
               </div>
               <div className="order-3 mt-2 w-full flex-shrink-0 sm:order-2 sm:mt-0 sm:w-auto">
                 <a
-                  href="https://howtocode.gumroad.com/l/getting-started-with-astro-course"
+                  href="https://shipfa.st/?via=robert-guss"
                   target="_blank"
                   className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-2 text-sm font-medium text-sky-600 shadow-sm hover:bg-sky-50"
                   rel="noreferrer"
