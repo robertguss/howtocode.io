@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'https://howtocode.io',
+  siteUrl: 'https://www.howtocode.io',
   generateRobotsTxt: true,
 }
