@@ -20,7 +20,7 @@ export const navigation = [
       },
       {
         title: 'Newsletter',
-        href: 'https://therefactoredmind.substack.com',
+        href: 'https://refactoringai.substack.com',
         target: '_blank',
       },
     ],

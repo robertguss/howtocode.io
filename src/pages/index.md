@@ -15,6 +15,6 @@ Tutorials, books, and courses on web development, programming, and computer scie
 
 {% quick-link title="Podcast" icon="plugins" href="https://anchor.fm/how-to-code" target="_blank" description="" /%}
 
-{% quick-link title="Newsletter" icon="theming" href="https://therefactoredmind.substack.com/" target="_blank" description="" /%}
+{% quick-link title="Newsletter" icon="theming" href="https://refactoringai.substack.com/" target="_blank" description="" /%}
 
 {% /quick-links %}

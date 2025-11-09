@@ -3,7 +3,7 @@ export default function SubstackEmail() {
     <>
       <div className="my-16 flex justify-center">
         <iframe
-          src="https://therefactoredmind.substack.com/embed"
+          src="https://refactoringai.substack.com/embed"
           width="100%"
           height="320"
           className="rounded-md border border-sky-500"
